@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Google Scholor](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUFur3IQ9vCkEfXlbxllEj8Qlm0_Hr-dTFdzju6KEoaCYOSUH_Xh9HzjTJ_bYcPi3ySpR80qUEfFGox2FSNyp4GlciEk_T7Qw95s9c&user=RhrX3EYAAAAJ) [LinkedIn](https://www.linkedin.com/in/chunghyeon-cho-023926208/)
+subtitle: <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUFur3IQ9vCkEfXlbxllEj8Qlm0_Hr-dTFdzju6KEoaCYOSUH_Xh9HzjTJ_bYcPi3ySpR80qUEfFGox2FSNyp4GlciEk_T7Qw95s9c&user=RhrX3EYAAAAJ">[Google Scholor]</a> <a href="https://www.linkedin.com/in/chunghyeon-cho-023926208/">[LinkedIn]</a>
 
 profile:
   align: right
