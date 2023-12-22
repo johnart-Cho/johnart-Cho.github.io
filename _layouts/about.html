@@ -48,9 +48,9 @@ layout: default
           {%- endif %}
               
           <!-- Media -->
-          {% if page.media -%}
-              <h2><a href="{{ '/media/' | relative_url }}" style="color: inherit;">media</a></h2>
-              {%- include media.html limit=true %}
+          {% if page.media and site.announcements.enabled -%}
+            <h2><a href="{{ '/media/' | relative_url }}" style="color: inherit;">media</a></h2>
+            {%- include media.html limit=true %}
           {%- endif %}
       
           <!-- Latest posts -->
