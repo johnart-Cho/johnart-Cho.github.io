@@ -171,6 +171,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  media:
+    defaults:
+      layout: post
+    output: true
+    permalink: /media/:path/
 
 announcements:
   enabled: true
