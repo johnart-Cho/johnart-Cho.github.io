@@ -43,14 +43,14 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
+            <p><h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            {%- include news.html limit=true %}</p>
           {%- endif %}
               
           <!-- Media -->
           {% if page.media and site.announcements.enabled -%}
-            <h2><a href="{{ '/media/' | relative_url }}" style="color: inherit;">media</a></h2>
-            {%- include media.html limit=true %}
+            <p><h2><a href="{{ '/media/' | relative_url }}" style="color: inherit;">media</a></h2>
+            {%- include media.html limit=true %}</p>
           {%- endif %}
       
           <!-- Latest posts -->
@@ -61,8 +61,8 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
+            <p><h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            {%- include selected_papers.html %}</p>
           {%- endif %}
 
           <!-- Social -->
