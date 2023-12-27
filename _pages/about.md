@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUFur3IQ9vCkEfXlbxllEj8Qlm0_Hr-dTFdzju6KEoaCYOSUH_Xh9HzjTJ_bYcPi3ySpR80qUEfFGox2FSNyp4GlciEk_T7Qw95s9c&user=RhrX3EYAAAAJ">[Google Scholor]</a>&nbsp;<a href="https://www.linkedin.com/in/chunghyeon-cho-023926208/">[LinkedIn]</a>
+subtitle: Applied Research Scientist at SOCAR<br><a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUFur3IQ9vCkEfXlbxllEj8Qlm0_Hr-dTFdzju6KEoaCYOSUH_Xh9HzjTJ_bYcPi3ySpR80qUEfFGox2FSNyp4GlciEk_T7Qw95s9c&user=RhrX3EYAAAAJ">[Google Scholor]</a>&nbsp;<a href="https://www.linkedin.com/in/chunghyeon-cho-023926208/">[LinkedIn]</a>
 
 profile:
   align: right
   image: myprofile.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>+82)10-4706-1977</p>
-    <p>johnart1997@gmail.com</p>
-    <p>AI Researcher at SOCAR</p>
 
 news: true  # includes a list of news items
 media: true # includes a list of media items
