@@ -7,7 +7,7 @@ subtitle: Applied Research Scientist at SOCAR<br><a href="https://scholar.google
 profile:
   align: right
   image: myprofile.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
 
 news: true  # includes a list of news items
