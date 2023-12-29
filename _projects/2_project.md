@@ -2,7 +2,7 @@
 layout: page
 title: Real-time Monitoring System for Risk Management in the Hyperconnected Society
 description: Developing a system that visualizes seven emotions based on messages collected by crawling social media data, categorized by region and period
-img: assets/img/3.jpg
+img: assets/img/sns.png
 importance: 2
 category: work
 giscus_comments: true
