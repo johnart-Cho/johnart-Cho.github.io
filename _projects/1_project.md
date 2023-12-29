@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Development of a public academic platform search engine
-description: Enhance the academic research information search platform using AI technology
+title: Development of Public Academic Information Service Platform
+description: Enhancing the RISS' academic research information search service platform using AI (knowledge mapping and semantic inference) technology
 img: assets/img/riss.png
 importance: 1
 category: work
