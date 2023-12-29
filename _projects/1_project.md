@@ -2,7 +2,7 @@
 layout: page
 title: Development of a public academic platform search engine
 description: Enhance the academic research information search platform using AI technology
-img: assets/img/12.jpg
+img: assets/img/riss.png
 importance: 1
 category: work
 related_publications: 
