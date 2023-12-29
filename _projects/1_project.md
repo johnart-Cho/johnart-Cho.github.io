@@ -3,7 +3,7 @@ layout: page
 title: Development of Public Academic Information Service Platform
 description: Enhancing the RISS' academic research information search service platform using AI (knowledge mapping and semantic inference) technology
 img: assets/img/riss.png
-importance: 1
+importance: 2
 category: work
 related_publications: 
 ---
