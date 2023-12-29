@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Development of a public academic platform search engine
+description: Enhance the academic research information search platform using AI technology
 img: assets/img/12.jpg
 importance: 1
-category: test
-related_publications: einstein1956investigations, einstein1950meaning
+category: work
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
