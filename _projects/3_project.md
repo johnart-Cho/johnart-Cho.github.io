@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Chatbot Development for Customer Center
-description: Developing the AI chatbot that directly handles customer inquiries using a Large-Language Model
+description: Developing an AI chatbot that directly handles customer inquiries using Large Language Models such as GPT-3 or GPT-4
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 1
