@@ -5,7 +5,6 @@ description: Developing a system that visualizes seven emotions based on message
 img: assets/img/sns.png
 importance: 3
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
