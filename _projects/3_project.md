@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Chatbot Development for Customer Center
+title: AI Chatbot Development for Customer Center
 description: Developing the AI chatbot that directly handles customer inquiries using a Large-Language Model
 img: assets/img/7.jpg
 redirect: https://unsplash.com
