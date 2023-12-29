@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Big Data-based Real-time Monitoring System for Risk Management in the Hyperconnected Society
-description: Developing a system that visualizes seven emotions (anxiety, anger, disgust, fear, joy, sadness, surprise) based on messages collected by crawling social media data, categorized by region and period
+title: Real-time Monitoring System for Risk Management in the Hyperconnected Society
+description: Developing a system that visualizes seven emotions based on messages collected by crawling social media data, categorized by region and period
 img: assets/img/3.jpg
 importance: 2
 category: work
