@@ -13,6 +13,7 @@ related_publications:
         {% include figure.html path="assets/img/riss.png" title="representative image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<br>
 
 <h4>Period</h4>
 2021.03 ~ 2022.12
