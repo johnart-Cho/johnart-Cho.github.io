@@ -8,6 +8,15 @@ category: work
 related_publications: 
 ---
 
+<h4>Period</h4>
+2021.03 ~ 2022.12
+
+<h4>Role</h4>
+<ul>
+    <li>AI technology development and overall project management</li>
+    <li>AI Technology API Integration Work</li>
+</ul>
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
