@@ -16,7 +16,7 @@ related_publications:
 <br>
 
 <h4>Period</h4>
-2021.03 ~ 2022.12
+<dd>2021.03 ~ 2022.12</dd>
 <br>
 
 <h4>Role</h4>
