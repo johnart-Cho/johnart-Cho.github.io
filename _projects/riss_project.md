@@ -17,12 +17,14 @@ related_publications:
 
 <h4>Period</h4>
 2021.03 ~ 2022.12
+<br>
 
 <h4>Role</h4>
 <ul>
     <li>AI technology development and overall project management</li>
     <li>AI Technology API Integration Work</li>
 </ul>
+<br>
 
 <h4>Key Research Contents</h4>
 <ul>
@@ -30,6 +32,7 @@ related_publications:
     <li>Graph embedding enabling similarity measurement between different types of data</li>
     <li>Developing an innovative document embedding solution to overcome the token length limitation inherent in the BERT model</li>
 </ul>
+<br>
 
 <h4>Achievement</h4>
 <ul>
