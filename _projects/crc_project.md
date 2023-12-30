@@ -20,7 +20,7 @@ category: work
 
 <h4>Role</h4>
 <ul>
-    <li>Developing an sentiment classification model using the BERT model</li>
+    <li>Developing a sentiment classification model using the BERT model</li>
     <li>Data collection and preprocessing for model training</li>
     <li>Developing a web page to display sentiment analysis results</li>
 </ul>
@@ -35,7 +35,7 @@ category: work
 
 <h4>Achievement</h4>
 <ul>
-    <li>Classification performance improvement of 30% or more</li>
-    <li>Deploy of sentiment analysis visualization webpage</li>
+    <li>Improving classification performance by 30% or more</li>
+    <li>Deploy a sentiment analysis visualization webpage</li>
     <dd>- <a href="http://sentimap.hanyang.ac.kr/">sentimap</a></dd>
 </ul>
