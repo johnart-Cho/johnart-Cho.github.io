@@ -21,7 +21,7 @@ category: fun
 <h4>Role</h4>
 <ul>
     <li>Developing a program using <a href="http://exobrain.kr/">Exobrain's</a> Korean semantic role labeling API to identify the subject, verb, and object in sentences</li>
-    <li>Developing a web page using Flask to make web services for detecting the subject, verb, and object in sentences</li>
+    <li>Developing a web page using Flask to detect the subject, verb, and object in sentences</li>
 </ul>
 <br>
 
@@ -33,6 +33,6 @@ category: fun
 
 <h4>Achievement</h4>
 <ul>
-    <li>Deploy a Korean subject, verb, object extractor webpage</li>
+    <li>Deployed a webpage to extract the Korean subject, verb, and object in sentences</li>
     <dd>- <a href="http://ai.hanyang.ac.kr/post">Korean Relation Extractor</a></dd>
 </ul>
