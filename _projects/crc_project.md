@@ -22,7 +22,7 @@ category: work
 <ul>
     <li>Developing a sentiment classification model using the BERT model</li>
     <li>Data collection and preprocessing for model training</li>
-    <li>Developing a web page to display sentiment analysis results</li>
+    <li>Developing a webpage to display sentiment analysis results</li>
 </ul>
 <br>
 
