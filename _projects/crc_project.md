@@ -35,7 +35,7 @@ category: work
 
 <h4>Achievement</h4>
 <ul>
-    <li>Improving classification performance by 30% or more</li>
-    <li>Deploy a sentiment analysis visualization webpage</li>
+    <li>Improved classification performance by 30% or more</li>
+    <li>Deployed a sentiment analysis visualization webpage</li>
     <dd>- <a href="http://sentimap.hanyang.ac.kr/">sentimap</a></dd>
 </ul>
