@@ -21,7 +21,7 @@ category: fun
 <h4>Role</h4>
 <ul>
     <li>Developing a program using <a href="http://exobrain.kr/">Exobrain's</a> Korean semantic role labeling API to identify the subject, verb, and object in sentences</li>
-    <li>Developing a web page using Flask to detect the subject, verb, and object in sentences</li>
+    <li>Developing a webpage using Flask to detect the subject, verb, and object in sentences</li>
 </ul>
 <br>
 
