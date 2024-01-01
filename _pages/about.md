@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm an applied research scientist at [SOCAR](https://www.socar.kr/), the largest car-sharing platform in the Republic of Korea.
+Hi, I'm an applied research scientist at [SOCAR](https://www.socar.kr/), the largest car-sharing platform in the Republic of Korea. Before joining SOCAR, I was the NLP Team Lead at [TmaxAI](https://www.tmax.co.kr/tmaxai), managing and collaboratively developing numerous projects.
 
 I finished my MS major in computer science and engineering at Hanyang University, advised by Professor [Yong Suk Choi](http://ai.hanyang.ac.kr/member). Before my MS, I comleted my BA in computer science and engineering at [Hanyang University](http://cs.hanyang.ac.kr/).
 
