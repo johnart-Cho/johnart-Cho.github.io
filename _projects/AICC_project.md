@@ -2,7 +2,7 @@
 layout: page
 title: Scenario-based AI Chatbot Development for Customer Service Center
 description: Developing an AI chatbot that directly handles customer inquiries using Large Language Models such as GPT-3 or GPT-4
-img: assets/img/aicc.png
+img: assets/img/aicc.jpg
 importance: 1
 category: work
 ---
@@ -38,4 +38,5 @@ category: work
 <ul>
     <li>Made the prompt to classify the intent of customer inquiries</li>
     <li>Established the pipeline from scenario definition to applying the defined scenario to the chatbot system</li>
+    <li>Deployed the AI Chatbot as a service to respond to customer inquiries</li>
 </ul>
