@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Scenario-based AI Chatbot Development for Customer Service Center
-description: Developing an AI chatbot that directly handles customer inquiries using Large Language Models such as GPT-3 or GPT-4
+title: AI Chatbot Development for Customer Service Center
+description: Developing an AI chatbot that handles customer inquiries using Large Language Models such as GPT-3 or GPT-4 and information retrieval model
 img: assets/img/aicc.jpeg
 importance: 1
 category: work
@@ -15,28 +15,27 @@ category: work
 <br>
 
 <h4>Period</h4>
-<dd>2023.03 ~ Present</dd>
+<dd>2023.03 ~ 2024.05</dd>
 <br>
 
-<h4>Role</h4>
+<h4>Role</h4> *project lead
 <ul>
-    <li>Orchestrating the end-to-end pipeline for chatbot development</li>
-    <li>Executing prompt engineering for intent classification of customer inquiries with GPT-3 or GPT-4</li>
-    <li>Defining the new data format for the scenario-based chatbot system</li>
+    <li>Defining the overall system architecture of the AI chatbot</li>
+    <li>Developing an intent classifier using GPT-4 Turbo to classify customer intents</li>
+    <li>Developing an information retrieval model to find appropriate answers to customer questions</li>
 </ul>
 <br>
 
 <h4>Key Research Contents</h4>
 <ul>
-    <li>How to fine-tune a Large-language model</li>
-    <li>Prompt engineering with GPT-3 or GPT-4</li>
-    <li>Planning a scenario-based chatbot system</li>
+    <li>How to build a system architecture to handle customer inquiries effectively</li>
+    <li>Intent classification using prompt engineering</li>
+    <li>Information Retrieval (i.e. ColBERT, SBERT...)</li>
 </ul>
 <br>
 
 <h4>Achievement</h4>
 <ul>
-    <li>Made the prompt to classify the intent of customer inquiries</li>
-    <li>Established the pipeline from scenario definition to applying the defined scenario to the chatbot system</li>
-    <li>Deployed the AI Chatbot as a service to respond to customer inquiries</li>
+    <li>Deployed the AI chatbot in the production environment</li>
+    <li>10% reduction in customer center operating costs</li>
 </ul>
