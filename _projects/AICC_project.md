@@ -18,7 +18,7 @@ category: work
 <dd>2023.03 ~ 2024.05</dd>
 <br>
 
-<h4>Role</h4> *project lead
+<h4>Role</h4> *<b>project lead</b>
 <ul>
     <li>Defining the overall system architecture of the AI chatbot</li>
     <li>Developing an intent classifier using GPT-4 Turbo to classify customer intents</li>
