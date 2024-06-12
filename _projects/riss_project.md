@@ -21,8 +21,8 @@ related_publications:
 
 <h4>Role</h4>
 <ul>
-    <li>AI technology development and overall project management</li>
-    <li>AI Technology API Integration Work</li>
+    <li>Developing graph embedding and recommendation system</li>
+    <li>Project management</li>
 </ul>
 <br>
 
